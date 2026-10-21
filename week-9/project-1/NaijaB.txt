@@ -1,0 +1,8 @@
+Welcome to Nigeria Breweries Drink Catalouge
+Lager,Stout,Non-Alcoholic
+33Export,Legend,Maltina
+Desperados,Turbo king,Amstel Malta
+Goldberg,Williams,Malta Gold
+Gulder,,,
+Heineken,,,
+Star,,,
